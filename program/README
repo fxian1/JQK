@@ -1,0 +1,17 @@
+README
+
+Double King
+
+Special Features of Program
+-Arraylist manipulation
+-Hidden user input (like password)
+-Timed printing of text
+-Object-Oriented design 
+-User friendly Formatting
+-User input restrictions and error handling
+-Randomized Card pick decision
+
+TO DO:
+-Find better way to detect enter key
+-NPC using stats and ML
+-Make UI
